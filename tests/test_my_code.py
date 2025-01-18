@@ -17,5 +17,6 @@ class TestMyCode(unittest.TestCase):
         # Failed test case
         #self.assertEqual(add_numbers(0, 0), 1)
 
+
 if __name__ == "__main__":
     unittest.main()
