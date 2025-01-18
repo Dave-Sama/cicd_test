@@ -1,5 +1,6 @@
 # src/my_code.py
 
+
 def add_numbers(a, b):
     """
     Adds two numbers and returns the result.
